@@ -89,7 +89,6 @@ used_car_price_predictor_app/
 │   └── Used_cars_data.csv
 │
 ├── requirements.txt
-├── LICENSE
 └── README.md
 </pre>
 
