@@ -1389,7 +1389,7 @@ def main():
             "The following Python code performs the data preprocessing and linear regression."
         )
         # Read and display the current script
-        with open("used_car_price_predictor.py", "r") as f:
+        with open("streamlit_app/used_car_price_predictor.py", "r") as f:
             script_content = f.read()
 
         # Display as formatted Python code
