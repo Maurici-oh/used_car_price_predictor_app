@@ -2,6 +2,10 @@
 
 This Streamlit app leverages a machine learning model (Linear Regression) to estimate the price of a used car based on various features. The project includes end-to-end data preprocessing, exploratory data analysis (EDA), feature engineering, and model evaluation.
 
+## 🔗 WebApp URL
+
+https://mra-car-price-predictor-app.streamlit.app/
+
 ## 📊 Project Overview
 **Goal**: Predict the price of used cars using numerical and categorical features from a dataset.
 
