@@ -131,9 +131,9 @@ def main():
                 transform: translate(-50%, -50%);
                 z-index: 1;
                 text-align: center;
-                padding: 0 10px;
-                margin-top: -240px;
-                width: 80%;
+                padding: 10px 20px;
+                margin-top: -20%;
+                width: 85%;
             }
             </style>
         """,
