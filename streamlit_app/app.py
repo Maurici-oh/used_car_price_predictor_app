@@ -13,7 +13,7 @@ from sklearn.model_selection import train_test_split
 def main():
     @st.cache_data
     def load_data():
-        return pd.read_csv("Used_cars_data.csv")
+        return pd.read_csv("streamlit_app/Used_cars_data.csv")
 
     raw_data = load_data()
 
